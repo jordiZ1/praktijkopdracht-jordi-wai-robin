@@ -1,0 +1,17 @@
+.mol-modal-info {
+    font-size: 14px;
+}
+
+/* flex properties */
+.mol-flex {
+    display: flex;
+}
+.mol-jc-ct {
+    justify-content: center;
+}
+.mol-ai-ct {
+    align-items: center;
+}
+.mol-dr-row {
+    flex-direction: column;
+}
